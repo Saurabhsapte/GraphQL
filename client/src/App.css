@@ -1,0 +1,41 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.todo-item {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.todo-item h2 {
+  margin: 0;
+  color: #007BFF;
+}
+
+.user-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.user-card p {
+  margin: 5px 0;
+}
+
+.user-card p strong {
+  color: #555;
+}
